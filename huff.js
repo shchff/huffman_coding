@@ -70,7 +70,6 @@ function decode() {
       let string = data.toString().split("");
       let decoded = "";
       let table = readJSON();
-      console.log(table);
       for (let i = 0; i < string.length; i++){
          if (table.hasOwnProperty(string[i])) {
 
