@@ -2,7 +2,7 @@
 
 This program can encode/decode string using huffman coding and create file with code-table (JSON-format).
 
-(! You need to have downloaded node.js on pc !)
+(! Node.js must be installed on your computer !)
 
 Using program
 
